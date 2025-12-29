@@ -1,5 +1,3 @@
-# Firstperson-Lock-view-body-
-A script where when executed locks you into first person and shows your character.
 -- Join my discord server for more scripts https://discord.gg/5GeQAXYYcW --
 -- Created By @xLunarxZzRbxx --
 -- Press F to unlock mouse -- 
